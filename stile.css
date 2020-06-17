@@ -215,6 +215,7 @@ height:400px;
 #price{
             padding: 40px 0;
             background: #efefef;
+            color: blue;
 }
 .single-price{
             margin: 10px auto;
@@ -236,7 +237,7 @@ height:400px;
             width:100%;
 }
 .price-head h2{
-            color: #fff;
+            color: blue;
             font-size: 30px;
             font-weight: bold;
             margin-bottom: 5px;
