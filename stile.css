@@ -75,13 +75,14 @@ navbar-toggler{
 
                                 /*--------------Services---------------*/
 #services{
-            background-image: url("tremux.jpg");
+            background-image:url("tremux.jpg");
             background-size:cover;
             background-position:center;
             color:efefef !important;
             background-attachment:fixed;
             padding-top:50px;
             padding-bottom:50px;
+
 }
 #services h1{
             text-align:center;
@@ -134,7 +135,7 @@ h1{
 }
 h1::after{
             content: '';
-            background-color: #007bff;
+            background: #007bff;
             display:block;
             height: 3px;
             width: 170px;
@@ -169,7 +170,6 @@ height:400px;
             font-size:15px;
             font-weight:bold;
             margin-top:15px;
-            color: red;
 }
 #team .fa{
             height:25px;
@@ -236,7 +236,7 @@ height:400px;
             width:100%;
 }
 .price-head h2{
-            color: black;
+            color: #fff;
             font-size: 30px;
             font-weight: bold;
             margin-bottom: 5px;
@@ -245,7 +245,7 @@ height:400px;
 }
 .price-head p{
             font-size: 25px;
-            color: black;
+            color: #ccc;
             font-weight: bold;
             line-height: 30px;
 }
@@ -297,7 +297,7 @@ ul li:last-child{
 }
 a{
             text-decoration:none !important;
-            color: black !important;
+            color: #fff!important;
 }
                                /*-----------Testimonials---------------------*/
 #testimonials{
@@ -362,7 +362,7 @@ blockquote::after{
             width:90px;
 }
 .profile:hover{
-            box-shadow: #fff);
+            box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
             cursor: pointer;
             transition: o.5s;
 }
@@ -371,10 +371,7 @@ blockquote::after{
             background: #efefef;
             padding-top: 40px;
             padding-bottom: 40px;
-            color: blue;
-}
-#contact h1{
-            color:blue;
+            color: #777;
 }
 .contact-form{
             padding: 15px;
