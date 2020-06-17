@@ -361,7 +361,7 @@ blockquote::after{
             width:90px;
 }
 .profile:hover{
-            box-shadow: 0 0 15px 5px rgba(0,0,0,0.2);
+            box-shadow: #fff);
             cursor: pointer;
             transition: o.5s;
 }
