@@ -78,7 +78,7 @@ navbar-toggler{
             background-image:url("tremux.jpg");
             background-size:cover;
             background-position:center;
-            color:efefef !important;
+            color:black !important;
             background-attachment:fixed;
             padding-top:50px;
             padding-bottom:50px;
@@ -86,12 +86,12 @@ navbar-toggler{
 }
 #services h1{
             text-align:center;
-            color:#efefef !important;
+            color:blue !important;
             padding-bottom:10px;           
 }
 #services h1:after{
            content:'';
-            background: #efefef;
+            background: black;
             display-bottom:block;
 
             height:1px;
@@ -204,7 +204,7 @@ height:400px;
             background-image: url("apple.jpg");
             background-size:cover;
             background-position: center;
-            color: #fff;
+            color: black;
             background-attachment: fixed;
             text-align: center;
             padding: 100px;
