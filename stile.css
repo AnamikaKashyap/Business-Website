@@ -220,7 +220,7 @@ height:400px;
             display: inline;
             float: left;
             width:100%;
-            background-color: #fff;
+            background-color: black;
             transition: 0.5s;
 }
 .single-price:hover{
@@ -235,7 +235,7 @@ height:400px;
             width:100%;
 }
 .price-head h2{
-            color: #fff;
+            color: black;
             font-size: 30px;
             font-weight: bold;
             margin-bottom: 5px;
@@ -296,7 +296,7 @@ ul li:last-child{
 }
 a{
             text-decoration:none !important;
-            color: #fff!important;
+            color: black !important;
 }
                                /*-----------Testimonials---------------------*/
 #testimonials{
