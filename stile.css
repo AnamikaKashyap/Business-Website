@@ -75,7 +75,7 @@ navbar-toggler{
 
                                 /*--------------Services---------------*/
 #services{
-            background-image:url("my images/tremux.jpg");
+            background-image:url("tremux.jpg");
             background-size:cover;
             background-position:center;
             color:efefef !important;
@@ -201,7 +201,7 @@ height:400px;
 
                              /*---------------Promo-------------*/
 #promo{
-            background-image: url("my images/apple.jpg");
+            background-image: url("apple.jpg");
             background-size:cover;
             background-position: center;
             color: #fff;
