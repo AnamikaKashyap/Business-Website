@@ -169,6 +169,7 @@ height:400px;
             font-size:15px;
             font-weight:bold;
             margin-top:15px;
+            color: red;
 }
 #team .fa{
             height:25px;
@@ -370,7 +371,7 @@ blockquote::after{
             background: #efefef;
             padding-top: 40px;
             padding-bottom: 40px;
-            color: #777;
+            color: blue;
 }
 .contact-form{
             padding: 15px;
