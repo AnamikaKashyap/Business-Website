@@ -130,7 +130,7 @@ navbar-toggler{
 }
 h1{
             text-align: center;
-            color: #555 !important;
+            color: blue !important;
             padding-bottom: 10px;
 }
 h1::after{
