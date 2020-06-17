@@ -373,6 +373,9 @@ blockquote::after{
             padding-bottom: 40px;
             color: blue;
 }
+#contact h1{
+            color:blue;
+}
 .contact-form{
             padding: 15px;
 }
